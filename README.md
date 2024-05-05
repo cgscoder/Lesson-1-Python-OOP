@@ -8,7 +8,9 @@
 
 - [ ] The README page (this page)
 - [ ] The .gitignore file
+- [ ] Project File Structure
 - [ ] Python venv's
+- [ ] Pygame
 
 ## Session Log
 
